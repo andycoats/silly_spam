@@ -1,3 +1,7 @@
+data("iris3")
+
+head(iris3)
+
 #-----------------------------------------------
 # Ex.1: Build and apply logistic regression model
 #-----------------------------------------------
